@@ -11,6 +11,6 @@ export default {
 <template>
   <main>
     <TheWelcome />
-    <Text>hello</Text>
+    <Text>hello< /Text>
   </main>
 </template>
